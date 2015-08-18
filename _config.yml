@@ -9,6 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://uthoff-nutcracker.dance" # the base hostname & protocol for your site
 twitter_username: uthoffnut
 github_username:  kelsin
+exclude: ["CNAME", "Gemfile", "Gemfile.lock", "README.md", "LICENSE"]
 safe: true
 lsi: false
 
